@@ -26,7 +26,7 @@ class GithubAPIManager {
 
   constructor() {
     this.axiosInstance = axios.create({
-      baseURL: `${GITHUB_BASE_URL}`,
+      baseURL: GITHUB_BASE_URL,
       headers,
     });
   }
