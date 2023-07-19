@@ -47,7 +47,7 @@
 2. 프로젝트 directory로 이동
 
 ```bash
- $ cd pre-onboarding-11th-1-13
+ $ cd pre-onboarding-11th-3-13
 ```
 
 3. root directory에 .env 파일 생성 후 아래 내용 추가
